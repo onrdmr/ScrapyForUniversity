@@ -1,5 +1,7 @@
 # Scrapy web scrawler
 <p>Scrapy web scrawler for basic documentation site of some university sites.</p>
+
+## for using    
     (python [website to scrawl] [foldername])
 	
 
