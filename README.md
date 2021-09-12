@@ -1,6 +1,7 @@
 # Scrapy web scrawler
-##  Scrapy web scrawler for basic documentation site of some university sites.
-
+<p>Scrapy web scrawler for basic documentation site of some university sites.</p>
+    (python [website to scrawl] [foldername])
+	
 
 [Link to Sample Page](http://people.scs.carleton.ca/~roth/comp4102a-18/comp4102a-18-DVD/PythonComputerVision/pcv_data/data/)
 
