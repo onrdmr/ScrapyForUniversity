@@ -1,4 +1,4 @@
-mport os
+import os
 from urllib import request
 import json
 import sys
