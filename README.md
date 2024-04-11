@@ -1,5 +1,5 @@
 # Scrapy web scrawler
-<p>Scrapy web scrawler for basic documentation site of some university sites.</p>
+<p> Most of the sites are below and i want to scrape it so i could developed scraper for it to download multi downloads</p>
 
 ## for using    
     python [website to scrawl] [foldername]
